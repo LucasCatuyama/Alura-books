@@ -10,7 +10,7 @@ This is the third front-end project developed during the "From Scratch: HTML and
 The goal of this project is to create a responsive website for "Alura Books" that functions seamlessly on mobile devices, tablets, and desktops. The main focus is to teach and apply the concepts of the "mobile-first" strategy, emphasizing the importance of prioritizing design for mobile devices. Additionally, the project aims to provide hands-on learning in the effective use of media queries for building responsive layouts.
 
 ## Project Status
-🚫 Cancelled 🚫 <br>
+🚫 Cancelled <br>
 
 👇 A screenshot of the mobile version
 
