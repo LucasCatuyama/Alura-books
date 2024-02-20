@@ -7,7 +7,7 @@ Este é o terceiro projeto de front-end desenvolvido durante a formação "A par
 O objetivo deste projeto é criar um site responsivo para a "Alura Books" que funcione em dispositivos móveis, tablets e desktops. O propósto principal é ensinar e aplicar os conceitos da estratégia "mobile first", destacando a importância de priorizar o design para dispositivos móveis. Além disso, o projeto visa proporcionar o aprendizado prático do uso eficaz de media queries na construção de layouts responsivos.
 
 ## Estado do projeto
-🚧 Em Andamento <br>
+🚫 Cancelado <br>
 
 👇 Uma parte da versão mobile
 
